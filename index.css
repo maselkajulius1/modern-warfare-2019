@@ -11,6 +11,12 @@ h1 {
     margin: 1px;
 }
 
+h2 {
+    color: rgb(160, 160, 160);
+    text-shadow: -1px 1px lightskyblue;
+    font-size: 30px;
+}
+
 p {
     color: rgb(192, 192, 192);
     font-family: 'Trebuchet MS';
